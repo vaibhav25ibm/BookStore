@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book shape in Bookora primary blue -->
+    <path
+        android:fillColor="#2D35C0"
+        android:pathData="M54,20 C54,20 30,25 28,30 L28,78 C28,78 50,72 54,74 C58,72 80,78 80,78 L80,30 C78,25 54,20 54,20 Z" />
+    <!-- Left page lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,40 L51,37 L51,41 L35,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,48 L51,45 L51,49 L35,52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,56 L51,53 L51,57 L35,60 Z" />
+    <!-- Right page lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,37 L73,40 L73,44 L57,41 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,45 L73,48 L73,52 L57,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,53 L73,56 L73,60 L57,57 Z" />
+</vector>
